@@ -1,0 +1,94 @@
+{
+"questions" :[
+  {
+    "id": 1,
+    "question": "Quel est le plus grand désert du monde ?",
+    "options": ["Sahara", "Désert de Gobi", "Désert de Kalahari", "Antarctique"],
+    "answer": "Antarctique"
+  },
+  {
+    "id": 2,
+    "question": "Combien de continents y a-t-il ?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "id": 3,
+    "question": "Quel est le plus haut sommet du monde ?",
+    "options": ["K2", "Everest", "Kangchenjunga", "Makalu"],
+    "answer": "Everest"
+  },
+  {
+    "id": 4,
+    "question": "Quelle est la capitale de la France ?",
+    "options": ["Lyon", "Marseille", "Paris", "Toulouse"],
+    "answer": "Paris"
+  },
+  {
+    "id": 5,
+    "question": "Combien de côtés a un hexagone ?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "id": 6,
+    "question": "Quel est le plus grand océan ?",
+    "options": ["Océan Atlantique", "Océan Pacifique", "Océan Indien", "Océan Arctique"],
+    "answer": "Océan Pacifique"
+  },
+  {
+    "id": 7,
+    "question": "En quelle année l'homme a marché sur la lune ?",
+    "options": ["1965", "1967", "1969", "1971"],
+    "answer": "1969"
+  },
+  {
+    "id": 8,
+    "question": "Quel est le plus grand fleuve d'Afrique ?",
+    "options": ["Fleuve Congo", "Fleuve Nil", "Fleuve Niger", "Fleuve Zambèze"],
+    "answer": "Fleuve Nil"
+  },
+  {
+    "id": 9,
+    "question": "Combien de cordes a une guitare classique ?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 10,
+    "question": "Quel est le plus grand pays du monde par superficie ?",
+    "options": ["Canada", "Russie", "États-Unis", "Chine"],
+    "answer": "Russie"
+  },
+  {
+    "id": 11,
+    "question": "En chimie, quel est le symbole de l'oxygène ?",
+    "options": ["O", "Ox", "Oy", "O2"],
+    "answer": "O"
+  },
+  {
+    "id": 12,
+    "question": "Quel scientifique a découvert la relativité ?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 13,
+    "question": "Combien de minutes a une heure ?",
+    "options": ["50", "60", "70", "80"],
+    "answer": "60"
+  },
+  {
+    "id": 14,
+    "question": "Quel est le plus grand animal terrestre ?",
+    "options": ["Girafe", "Hippopotame", "Éléphant", "Rhinocéros"],
+    "answer": "Éléphant"
+  },
+  {
+    "id": 15,
+    "question": "En quelle année la Seconde Guerre mondiale a-t-elle commencé ?",
+    "options": ["1937", "1938", "1939", "1940"],
+    "answer": "1939"
+  }
+]
+}
